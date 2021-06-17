@@ -1,0 +1,6 @@
+com/vladimirsimek/javafxcanvas/Main.java
+ com.vladimirsimek.javafxcanvas.Main
+com/vladimirsimek/javafxcanvas/Controller.java
+ com.vladimirsimek.javafxcanvas.Controller
+com/vladimirsimek/javafxcanvas/Window.java
+ com.vladimirsimek.javafxcanvas.Window
